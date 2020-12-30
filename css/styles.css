@@ -46,7 +46,7 @@ a:hover{
 }
 
 hr{
-    border: dotted #EAF6F6 6px;
+    border: dotted #b2e6e6 6px;
     border-bottom: none;
     width: 3%;
     margin: 100px auto;
@@ -71,6 +71,11 @@ hr{
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
+}
+
+.codingexperience{
+    list-style-type: none;
+    line-height: 1.5;
 }
 
 .pro{
