@@ -134,17 +134,6 @@ hr{
     margin-left: 30px;
 }
 
-dl{
-    line-height: 2;
-}
-dt{
-    font-weight: bold;
-}
-
-dd{
-    margin-inline-start: 0px;
-}
-
 .btn {
     background: #11cdd4;
     background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
